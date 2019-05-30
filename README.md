@@ -1,3 +1,5 @@
+> **NOTICE! I don't have time to support this project any more so it goes out of sync with the latest version of BabelNet. Please refer to the forks for more up-to-date versions.**
+
 A simple BabelNet web service for user and non-Java programs.
 
 ## Obtaining BABEL2WN_MAP
